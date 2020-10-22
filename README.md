@@ -1,0 +1,2 @@
+# java-microservice-reference
+This repository can be used as a reference to write well-designed, layered Spring Boot applications. This repository has a standard 3-tier application architecture which you can use to build any standard springboot-based microservice application. This also covers TDD approach using Mockito. Lombok integration makes this application easy in case of code refactoring. The repository is built based on an excellent book - Learn Microservices with Spring Boot.
